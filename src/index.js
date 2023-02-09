@@ -50,3 +50,4 @@ ticketBtn.addEventListener("click", (event) => {
     ticketsRemaining.textContent = remainingNum - 1;
   }
 });
+//holy shit it works!
